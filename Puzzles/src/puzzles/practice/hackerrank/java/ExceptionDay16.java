@@ -14,6 +14,8 @@ public class ExceptionDay16 {
         catch(NumberFormatException e){
             System.out.println("Bad String");
         }
-    }	
+    in.close();
+	}	
+	
 
 }
